@@ -13,3 +13,4 @@
 ![image](https://github.com/izzy80/BigDataContest_Sejong/assets/115052929/77e70998-0f98-48be-8e1c-66a1bf9007b8)
 ![image](https://github.com/izzy80/BigDataContest_Sejong/assets/115052929/cfba51d7-6791-4c69-be76-680d77e9ead0)
 ![image](https://github.com/izzy80/BigDataContest_Sejong/assets/115052929/3cb8b0c6-401e-4a98-a882-52e7653524be)
+![image](https://github.com/izzy80/BigDataContest_Sejong/assets/115052929/de8ffc14-d3e7-474e-892d-f116a5d0c7fd)
