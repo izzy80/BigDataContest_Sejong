@@ -1,4 +1,11 @@
 # BigDataContest_Sejong
+>기간 : 21.08.24 ~ 21.09.30 
+>인원 : 4명
+>역할
+- 데이터 추출 및 가공
+  카카오맵 API를 활용해서 크롤링 진행
+  (세종특별자치시 주차장, 주거지역, 편의점 등) 
+- MCLP 알고리즘 이용하여 최종 입지 선정 도출 
 
 ![image](https://github.com/izzy80/BigDataContest_Sejong/assets/115052929/2b0d7d7e-bb3f-4e54-a7e7-3932ce42bd6d)
 ![image](https://github.com/izzy80/BigDataContest_Sejong/assets/115052929/0b7ecd73-f244-42fe-abd0-6c4b1a10c88a)
